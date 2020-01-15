@@ -1,0 +1,4 @@
+Bash simulator in Java
+
+	- accepting simple bash commands like: mkdir, ls, pwd, cd, mv, touch
+	- OOP Design Patterns used: Singleton, Command, Composite, Factory
